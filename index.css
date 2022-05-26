@@ -1,0 +1,28 @@
+#main-container{
+    width: 60%;
+    margin: auto;
+}
+
+table{
+border: 1px solid #cecece;
+
+}
+th{
+    border: 1px solid #d54b4b;
+}
+td{
+    border: 1px solid #cecece;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    
+}
+#form>div{
+    display: flex;
+}
+button{
+    margin-top: 10px;
+}
